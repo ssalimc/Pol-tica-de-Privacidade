@@ -14,8 +14,19 @@ Política de Privacidade do Aplicativo
 
 Informações Coletadas
 
-O aplicativo não coleta dados pessoais dos usuários do aplicativo e não envia e-mail solicitando informações, tais como senhas e outros dados pessoas. Este aplicativo está de acordo com as disposições da Lei Federal n. 13.709/2018 (Lei Geral de Dados Pessoais – LGPD).
-O aplicativo permite o envio de e-mail voluntário por parte do usuário por onde pode-se sanar eventuais dúvidas, sugestões ou reclamações, podendo esses e-mails também serem utilizados em eventuais litígios. 
+O aplicativo utiliza o Facebook Software Development Kit for App Events (FB SDK) que é uma ferramenta analítica e 
+de processamento de dados para analisar como os usuários utilizam o aplicativo e para personalização de anúncios. 
+Os dados coletados mediante autorização do usuário incluem interações básicas no aplicativo como por exemplo instalações do aplicativo, 
+inicializações do aplicativo, eventos do sistema como carregamento do SDK e desempenho do SDK além de páginas acessadas dentro do aplicativo. 
+Essas informações têm como objetivo avaliar e produzir relatórios do uso do aplicativo e prover outros serviços estatísticos e analíticos relacionados
+ao uso do aplicativo além da personalização de anúncios.
+
+Dentre as informações coletadas não há dados sensíveis que identificam o usuário como nome, endereço, telefone ou e-mail. 
+O aplicativo não envia e-mail solicitando informações, tais como senhas e outros dados pessoas. 
+Este aplicativo está de acordo com as disposições da Lei Federal n. 13.709/2018 (Lei Geral de Dados Pessoais – LGPD) e 
+o regulamento da União Europeia (EU) 2016/679 General Data Protection Regulation - GDPR). O aplicativo permite o envio de
+e-mail voluntário por parte do usuário por onde pode-se sanar eventuais dúvidas, sugestões ou reclamações, 
+podendo esses e-mails também serem utilizados em eventuais litígios.
 
 Público-Alvo
 O aplicativo só deve ser utilizado por médicos ou outros profissionais da saúde capacitados.
@@ -24,9 +35,8 @@ Disposições Gerais
 A utilização do aplicativo implica no aceite, por parte dos usuários, das condições e termos desta política.
 O proprietário reserva-se o direito de alterar os termos desta Política de Privacidade a qualquer momento, mediante comunicação aos seus usuários por  notificação do aplicativo ou mudança na Política de Privacidade que pode ser encontrada no endereço: 
 
+Exclusão de Dados
+Para exclusão dos dados coletados pelo facebook SDK acesse: https://web.facebook.com/off_facebook_activity/?_rdc=1&_rdr
+
 Contato
-O usuário poderá entrar em contato através do e-mail drug.infusionapp@gmail.com para esclarecimento de quaisquer dúvidas sobre esta política de privacidade
-
-
-
-
+O usuário poderá entrar em contato através do e-mail drug.infusionapp@gmail.com para esclarecimento de quaisquer dúvidas sobre esta política de privacidade ou sobre os termos de uso.
